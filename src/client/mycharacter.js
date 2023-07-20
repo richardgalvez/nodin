@@ -1,10 +1,10 @@
 import MapleCharacter from './maplecharacter';
 
 const MyCharacter = new MapleCharacter({
-  name: 'Admin',
+  name: 'RGMS',
 });
 
-MyCharacter.level = 9;
+MyCharacter.level = 30;
 MyCharacter.hp = 30000;
 MyCharacter.maxHp = 30000;
 MyCharacter.mp = 30000;
